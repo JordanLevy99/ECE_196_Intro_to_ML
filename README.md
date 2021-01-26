@@ -21,5 +21,14 @@ The structure of the repository is as follows:
       sklearn_practice.ipynb -- Introduces using sklearn and seaborn on Iris dataset to apply PCA, visualize the dataset, and predict classes with Logistic Regression.
       
       sklearn_practice.pdf -- a pdf version of sklearn_practice.ipynb to be used for reference when using sklearn.
+      
+    /Web\ Scraping -- web-scraping exercises and examples
+        
+      Intro_to_Web_Scraping_exercise.ipynb -- 3 exercises introducing you to using BeautifulSoup on example.webscraping.com
+        
+      NBA_Data_Collection.ipynb -- example of scraping team data from stats.nba.com
+      
+      chromedriver.exe -- Executable for automated chrome browser (works for chrome version 87)
+    
 Answers to each of the files in ML_Demos/ can be found at https://drive.google.com/drive/folders/10OjXyX3CjFgVij88tKi64dGIQkbpZx9V?usp=sharing.  
 This folder will be updated throughout the quarter as we go over each demo.
